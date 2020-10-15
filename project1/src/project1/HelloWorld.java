@@ -6,7 +6,7 @@ public class HelloWorld {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("HelloWorld");
 		System.out.println("HelloWorld チェック");
-		for(int i = 0 ; i < 5 ; i++ ) {
+		for(int i = 0 ; i < 10 ; i++ ) {
 			System.out.println("HelloWorld" + i);
 
 		}
