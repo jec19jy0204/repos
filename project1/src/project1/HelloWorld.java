@@ -4,9 +4,10 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		System.out.print("HelloWorld");
-		System.out.print("HelloWorld チェック");
-
+		int num = (int)(Math.random()*10)+1;
+		for(int i = 1 ; i <= num ; i++) {
+			System.out.println("HelloWorld " +i);
+		}
 	}
 
 }
