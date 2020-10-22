@@ -8,7 +8,7 @@ public class HelloWorld {
 		for(int i = num ; i >=0  ; i--) {
 			System.out.println("HelloWorld " +i);
 		}
-		System.out.println("BYEBYE");
+
 	}
 
 }
